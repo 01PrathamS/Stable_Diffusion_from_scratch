@@ -80,7 +80,7 @@ class VAE_ResidualBlock(nn.Module):
 
         return x + self.residual_layer(residue)
     
-class VAE_DecoderBlock(nn.Sequential):
+class VAE_Decoder(nn.Sequential):
     
         def __init__(self):
             super().__init__(
