@@ -1,6 +1,11 @@
 # Stable_Diffusion_from_scratch
 implementation of Stable Diffusion Architecture from scratch
 
+<p align="center">
+  <img src="images/img2img.png" width="49%" />
+  <img src="images/txt2img.png" width="49%" />
+</p>
+
 
 #### Implementation of [AutoEncoder](https://github.com/01PrathamS/Stable_Diffusion_from_scratch/blob/main/notebooks/AutoEncoder_implementation.ipynb)
 #### Implementation of [Variational AutoEncoder](https://github.com/01PrathamS/Stable_Diffusion_from_scratch/blob/main/notebooks/VAE_implementation.ipynb)
